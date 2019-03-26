@@ -4,3 +4,5 @@ function init() {
   // Write your JavaScript code inside the init() function
 
 }
+
+// if statement? if...... is in order, then yes,
